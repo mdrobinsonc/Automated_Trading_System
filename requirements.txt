@@ -1,0 +1,12 @@
+streamlit
+scikit-learn
+pandas
+numpy
+matplotlib
+plotly
+imblearn
+joblib
+yfinance
+requests
+datetime
+
