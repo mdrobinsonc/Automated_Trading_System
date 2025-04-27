@@ -79,13 +79,6 @@ Ensure you have the following installed:
   - Improve model accuracy with advanced ML techniques.
   - Enhance trading strategy with risk management techniques.
 
-## **Contributors**
-
-- APOORV KULSHRESTHA
-- MARTIN GUTIERREZ OLARTE
-- MOAYAD SALEM BARAYAN
-- TARA TEYLOUNI
-- MARTIN ROBINSON
 
 
 
